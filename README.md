@@ -9,7 +9,7 @@
 ## Project Design:
 - Page Object Model (POM) design pattern
 - Data Driven framework
-- Have a supporting Utilities package in src/main/java file path, named "utils" that includes many wrapper methods which services the project like ApiActions class
+- Have a supporting Utilities package in src/main/java file path, named "utils" that includes many wrapper methods which services the project like ElementsAction class
 
 ## Steps to Execute Code
 - Clone the code from the Repository 
