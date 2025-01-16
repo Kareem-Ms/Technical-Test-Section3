@@ -1,0 +1,19 @@
+{
+  "countryName": "الإمارات" ,
+  "browser": "chrome",
+  "LitePackage": {
+    "Type": "لايت" ,
+    "price": "5.4" ,
+    "currency": "دولار أمريكي"
+  },
+  "mainPackage": {
+    "Type": "الأساسية" ,
+    "price": "10.9" ,
+    "currency": "دولار أمريكي"
+  },
+  "premiumPackage": {
+    "Type": "بريميوم" ,
+    "price": "16.3" ,
+    "currency": "دولار أمريكي"
+  }
+}
